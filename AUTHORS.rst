@@ -2,4 +2,4 @@
 Developers
 ==========
 
-* ZeroCool <alejandrogilelias940711@gmail.com>
+* ZeroCool940711
